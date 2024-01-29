@@ -1,0 +1,56 @@
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\bin\Debug\net8.0\FinaleProje.exe
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\bin\Debug\net8.0\FinaleProje.deps.json
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\bin\Debug\net8.0\FinaleProje.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\bin\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\bin\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\refint\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\FinaleProje.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\Final66\FinaleProje\FinaleProje\obj\Debug\net8.0\ref\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\bin\Debug\net8.0\FinaleProje.exe
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\bin\Debug\net8.0\FinaleProje.deps.json
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\bin\Debug\net8.0\FinaleProje.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\bin\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\bin\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\refint\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\FinaleProje.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\FinalGameProject\FinaleProje\obj\Debug\net8.0\ref\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\bin\Debug\net8.0\FinaleProje.exe
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\bin\Debug\net8.0\FinaleProje.deps.json
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\bin\Debug\net8.0\FinaleProje.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\bin\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\bin\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\refint\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\FinaleProje.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\Final_C_Project\obj\Debug\net8.0\ref\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\bin\Debug\net8.0\FinaleProje.exe
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\bin\Debug\net8.0\FinaleProje.deps.json
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\bin\Debug\net8.0\FinaleProje.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\bin\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\bin\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\refint\FinaleProje.dll
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.pdb
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\FinaleProje.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\Final kopya\obj\Debug\net8.0\ref\FinaleProje.dll
